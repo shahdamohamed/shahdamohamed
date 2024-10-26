@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I’m Shahda mohamed 
 
-<!--
-**shahdamohamed/shahdamohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m passionate about coding, learning, and building solutions that make a difference. Here’s a bit about me:
 
-Here are some ideas to get you started:
+### 🔭 Current Focus
+- Working on projects involving **Django** and web development.
+- Exploring **database design** and **implementation** to deepen my backend knowledge.
+  
+### 🌱 Currently Learning
+- Building web applications with **Django**.
+- Improving my skills in **data structures and algorithms** in **C++** and **Python**.
+- Mastering **database design** concepts and implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Ask Me About
+- **Backend Development**: From creating databases to working with Django.
+- **Data Structures & Algorithms**: I enjoy discussing efficient coding solutions.
+
+### 🌐 Connect with Me
+- **LinkedIn**: https://www.linkedin.com/in/shahda-mohamed-178537280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- **GitHub**: You can find all my open-source projects and contributions here!
+
+### 📫 How to Reach Me
+Feel free to reach out through LinkedIn or open an issue if you have questions about any of my repositories!
+
+### 🚀 Skills & Tools
+- **Languages**: Python, C++, HTML, SQL
+- **Frameworks**: Django
+- **Database Systems**: MySQL
+
+---
+
+Thanks for visiting, and let’s connect! Looking forward to collaborating on open-source projects together! 😊
+
