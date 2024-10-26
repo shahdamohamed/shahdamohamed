@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Shahda mohamed 
 
+![Hello!]https://github.com/shahdamohamed/shahdamohamed/blob/main/code-encoding.gif
+
 Welcome to my GitHub profile! I’m passionate about coding, learning, and building solutions that make a difference. Here’s a bit about me:
 
 ### 🔭 Current Focus
