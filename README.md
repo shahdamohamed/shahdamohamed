@@ -1,11 +1,8 @@
 <h2 align="center">Hi 👋! I am Shahda Mohamed</h2>
-<h2 align="center"> Welcome to my Profile</h2>
+<h2 align="center"> 💻 Backend Developer</h2>
 
 
-<img align="right" alt="coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHM1Nmh4NHQyYjd0MjhpaW5qbGd4ZXR1b3h6ZnUyMm5jYWlpc2hieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.webp">
-
-# About Me:
-I am Passionate about Learning new Technologies .<br>I am Currently a Back-end Technician at GDG on Compus BNU.<br>I am Studying Computer Science 👩🏻‍💻
+<img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhnd25pNmNqam5uMjJ2bzNldDJiZjJsNHJuOHdteG5ucDJ3eGN4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
 
 
 ## 🌐 Socials:
