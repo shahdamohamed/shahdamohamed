@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhnd25pNmNqam5uMjJ2bzNldDJiZjJsNHJuOHdteG5ucDJ3eGN4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
 
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahda-mohamed-178537280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahdamohamedabotalb@gmail.com) 
 [![portfolio ](https://img.shields.io/badge/portfolio-8A2BE2?)](https://shahdamohamed.github.io/my-website/) 
