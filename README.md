@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! I am Shahda Mohamed</h2>
-<h2 align="center"> 💻 Backend Developer</h2>
+<h2 align="center"> Backend Developer</h2>
 
 
 <img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhnd25pNmNqam5uMjJ2bzNldDJiZjJsNHJuOHdteG5ucDJ3eGN4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
@@ -10,7 +10,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahdamohamedabotalb@gmail.com) 
 [![portfolio ](https://img.shields.io/badge/portfolio-8A2BE2?)](https://shahdamohamed.github.io/my-website/) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -23,7 +23,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=shahdamohamed&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahdamohamed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
