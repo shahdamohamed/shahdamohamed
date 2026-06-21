@@ -1,34 +1,56 @@
-<h2 align="center">Hi 👋! I am Shahda Mohamed</h2>
-<h2 align="center"> 💻 Backend Developer</h2>
+<h1 align="center">Hi, I am Shahda Mohamed</h1>
 
+<p align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=700&size=22&pause=1200&color=E28E5C&center=true&vCenter=true&width=650&lines=Backend+Developer;Django+%7C+Django+REST+%7C+FastAPI;Turning+ideas+into+reliable+APIs" alt="Typing intro" />
+</p>
 
-<img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhnd25pNmNqam5uMjJ2bzNldDJiZjJsNHJuOHdteG5ucDJ3eGN4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif">
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahda-mohamed-178537280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahdamohamedabotalb@gmail.com) 
-[![portfolio ](https://img.shields.io/badge/portfolio-8A2BE2?)](https://shahdamohamed.github.io/my-website/) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%230175C2.svg?style=for-the-badge&logo=PHP&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=shahdamohamed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahdamohamed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<p align="center">
+	<img alt="coding meme" width="360" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shahdamohamed&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+- Building backend apps with a focus on API design and maintainability.
+- Interested in scalable architecture, clean database modeling, and performance.
+- Always learning and improving through real projects.
+
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahda-mohamed-178537280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahdamohamedabotalb@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F4A261?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shahdamohamed.github.io/my-website/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1JW3SmUKF9/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shahda2212)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shahda_2212)
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Backend
+![Django](https://img.shields.io/badge/Django-0B3D2E?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-CC0000?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F766E?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2F5D8A?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2C6E91?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-1E5A7A?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Frontend Basics
+![HTML5](https://img.shields.io/badge/HTML5-E65100?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1565C0?style=for-the-badge&logo=css3&logoColor=white)
+
+## GitHub Stats
+
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdamohamed&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+</p>
+
+---
