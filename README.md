@@ -49,16 +49,8 @@
 ## GitHub Stats
 
 <p align="center">
-	<img src="https://streak-stats.demolab.com?user=shahdamohamed&theme=dark&hide_border=true" alt="GitHub streak" />
-</p>
-
-
-<p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdamohamed&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
 </p>
 
 ---
 
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=shahdamohamed&style=for-the-badge&color=0F766E" alt="Visitor count" />
-</p>
